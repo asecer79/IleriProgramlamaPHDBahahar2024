@@ -4,10 +4,9 @@ namespace W02_01
 {
     public class Program
     {
-        //entry point
+        //Entry Point
         static void Main(string[] args)
         {
-
             #region 01.Value Types
 
             #region 01.1 Primitive Types
@@ -134,7 +133,6 @@ namespace W02_01
             //axx = "Ali";
 
             #endregion
-
         }
     }
 }
