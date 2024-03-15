@@ -5,9 +5,11 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W01_02", "W01_02\W01_02.csproj", "{A667BE78-A4CC-429A-8F8D-C5ECD8C7EB3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W03", "W03\W03.csproj", "{9535813F-0775-4A06-8C2B-777BACC3BA59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W03", "W03\W03.csproj", "{9535813F-0775-4A06-8C2B-777BACC3BA59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W03OtherAssembly", "W03OtherAssemly\W03OtherAssembly.csproj", "{624257AA-C54B-4A39-919E-EECD0781CE39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W03OtherAssembly", "W03OtherAssemly\W03OtherAssembly.csproj", "{624257AA-C54B-4A39-919E-EECD0781CE39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W04", "W04\W04.csproj", "{655B6BEB-59E8-4C2C-8CE9-09E1D1E451B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{624257AA-C54B-4A39-919E-EECD0781CE39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{624257AA-C54B-4A39-919E-EECD0781CE39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{624257AA-C54B-4A39-919E-EECD0781CE39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{655B6BEB-59E8-4C2C-8CE9-09E1D1E451B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655B6BEB-59E8-4C2C-8CE9-09E1D1E451B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655B6BEB-59E8-4C2C-8CE9-09E1D1E451B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655B6BEB-59E8-4C2C-8CE9-09E1D1E451B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
